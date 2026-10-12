@@ -394,7 +394,7 @@ logs.
 
 ## Author
 
-**Hamed Goldoust** ---- Data Science & Machine Learning
+**Hamed Goldoust** ----> Data Science & Machine Learning
 
 -   GitHub: [Clonerhamed](https://github.com/Clonerhamed)
 -   LinkedIn: [Hamed
